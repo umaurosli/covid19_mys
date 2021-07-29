@@ -1,10 +1,5 @@
 # covid19_mys
-Daily Data for Covid19 Cases
-
-
 Daily Malaysia Covid19 Data announced from KKM
-
-Hope KKM can do this things for state/district lvl. They have more data than us
 
 Metadata
 
