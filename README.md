@@ -3,7 +3,7 @@ Daily Malaysia Covid19 Data announced from KKM
 
 Metadata
 
-date - Date format
+date - Date format /n
 daily_cases - Daily Covid19 Positive Cases
 active_cases - Total Active Positive Covid19 Cases
 daily_recover - Daily Recovery Covid19 Cases
