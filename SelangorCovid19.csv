@@ -203,7 +203,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 04/07/2021,Hulu Langat,Ampang,217,12435,200,11639,4,138,658
 04/07/2021,Hulu Langat,Beranang,18,1041,9,944,1,14,83
 04/07/2021,Hulu Langat,Cheras,157,12082,149,11487,1,124,471
-04/07/2021,Hulu Langat,Hulu Langat,27,2281,33,2186,-1,23,72
+04/07/2021,Hulu Langat,Hulu Langat,27,2281,33,2186,0,24,72
 04/07/2021,Hulu Langat,Hulu Semenyih,0,0,0,0,0,0,0
 04/07/2021,Hulu Langat,Kajang,184,19358,151,18348,2,124,886
 04/07/2021,Hulu Langat,Penjara,19,2444,53,2396,0,0,48
@@ -268,7 +268,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 05/07/2021,Hulu Langat,Ampang,178,12613,188,11827,1,139,647
 05/07/2021,Hulu Langat,Beranang,7,1048,44,988,0,14,46
 05/07/2021,Hulu Langat,Cheras,140,12222,152,11639,0,124,459
-05/07/2021,Hulu Langat,Hulu Langat,16,2297,18,2204,1,24,69
+05/07/2021,Hulu Langat,Hulu Langat,16,2297,18,2204,0,24,69
 05/07/2021,Hulu Langat,Hulu Semenyih,0,0,0,0,0,0,0
 05/07/2021,Hulu Langat,Kajang,209,19567,217,18565,2,126,876
 05/07/2021,Hulu Langat,Penjara,9,2453,1,2397,0,0,56
@@ -436,7 +436,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 07/07/2021,Kuala Selangor,Kuala Selangor,61,662,0,572,0,5,85
 07/07/2021,Kuala Selangor,ljok,85,3971,1,3769,0,27,175
 07/07/2021,Kuala Selangor,Pasangan,1,47,0,42,0,0,5
-07/07/2021,Kuala Selangor,Penjara,0,12,-7,0,0,0,5
+07/07/2021,Kuala Selangor,Penjara,0,12,0,7,0,0,5
 07/07/2021,Kuala Selangor,Tanjong Karang,1,705,0,691,0,7,7
 07/07/2021,Kuala Selangor,Ujong Permatang,0,133,0,129,0,2,2
 07/07/2021,Petaling,Bukit Raja,21,6157,74,6088,0,28,41
@@ -501,7 +501,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 08/07/2021,Kuala Selangor,Kuala Selangor,7,669,2,574,0,5,90
 08/07/2021,Kuala Selangor,ljok,56,4027,43,3812,1,28,187
 08/07/2021,Kuala Selangor,Pasangan,0,47,0,42,0,0,5
-08/07/2021,Kuala Selangor,Penjara,0,12,0,0,0,0,5
+08/07/2021,Kuala Selangor,Penjara,0,12,0,7,0,0,5
 08/07/2021,Kuala Selangor,Tanjong Karang,3,708,5,696,0,7,5
 08/07/2021,Kuala Selangor,Ujong Permatang,0,133,0,129,0,2,2
 08/07/2021,Petaling,Bukit Raja,78,6235,41,6129,1,29,77
@@ -566,7 +566,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 09/07/2021,Kuala Selangor,Kuala Selangor,7,676,4,578,0,5,93
 09/07/2021,Kuala Selangor,ljok,55,4082,25,3837,1,29,216
 09/07/2021,Kuala Selangor,Pasangan,0,47,0,42,0,0,5
-09/07/2021,Kuala Selangor,Penjara,0,12,7,7,0,0,5
+09/07/2021,Kuala Selangor,Penjara,0,12,0,7,0,0,5
 09/07/2021,Kuala Selangor,Tanjong Karang,3,711,1,697,1,8,6
 09/07/2021,Kuala Selangor,Ujong Permatang,0,133,0,129,0,2,2
 09/07/2021,Petaling,Bukit Raja,118,6353,43,6172,0,29,152
@@ -730,7 +730,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 12/07/2021,Hulu Langat,Semenyih,50,5502,0,5315,0,41,146
 12/07/2021,Hulu Selangor,Ampang Pechah,1,459,2,437,0,4,18
 12/07/2021,Hulu Selangor,Batang Kali,8,577,1,511,1,5,61
-12/07/2021,Hulu Selangor,Buluh Telur,0,1,-1,0,0,0,0
+12/07/2021,Hulu Selangor,Buluh Telur,0,1,0,1,0,0,0
 12/07/2021,Hulu Selangor,Hulu Bernam,1,213,3,193,0,3,17
 12/07/2021,Hulu Selangor,Hulu Yam,12,389,0,81,0,3,305
 12/07/2021,Hulu Selangor,Kalumpang,3,256,0,160,0,2,94
@@ -795,7 +795,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 13/07/2021,Hulu Langat,Semenyih,105,5607,53,5368,0,41,198
 13/07/2021,Hulu Selangor,Ampang Pechah,17,476,7,444,0,4,28
 13/07/2021,Hulu Selangor,Batang Kali,27,604,10,521,0,5,78
-13/07/2021,Hulu Selangor,Buluh Telur,0,1,1,1,0,0,0
+13/07/2021,Hulu Selangor,Buluh Telur,0,1,0,1,0,0,0
 13/07/2021,Hulu Selangor,Hulu Bernam,2,215,8,201,0,3,11
 13/07/2021,Hulu Selangor,Hulu Yam,14,403,0,81,0,3,319
 13/07/2021,Hulu Selangor,Kalumpang,8,264,0,160,0,2,102
@@ -860,7 +860,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 14/07/2021,Hulu Langat,Semenyih,29,5636,21,5389,2,43,204
 14/07/2021,Hulu Selangor,Ampang Pechah,2,478,2,446,0,4,28
 14/07/2021,Hulu Selangor,Batang Kali,11,615,7,528,0,5,82
-14/07/2021,Hulu Selangor,Buluh Telur,0,1,-1,0,0,0,0
+14/07/2021,Hulu Selangor,Buluh Telur,0,1,0,1,0,0,0
 14/07/2021,Hulu Selangor,Hulu Bernam,5,220,2,203,0,3,14
 14/07/2021,Hulu Selangor,Hulu Yam,5,408,0,81,0,3,324
 14/07/2021,Hulu Selangor,Kalumpang,6,270,88,248,0,2,20
@@ -925,7 +925,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 15/07/2021,Hulu Langat,Semenyih,22,5658,15,5404,0,43,211
 15/07/2021,Hulu Selangor,Ampang Pechah,10,488,4,450,0,4,34
 15/07/2021,Hulu Selangor,Batang Kali,7,622,19,547,0,5,70
-15/07/2021,Hulu Selangor,Buluh Telur,0,1,1,1,0,0,0
+15/07/2021,Hulu Selangor,Buluh Telur,0,1,0,1,0,0,0
 15/07/2021,Hulu Selangor,Hulu Bernam,11,231,3,206,0,3,22
 15/07/2021,Hulu Selangor,Hulu Yam,5,413,0,81,0,3,329
 15/07/2021,Hulu Selangor,Kalumpang,8,278,1,249,0,2,27
@@ -1049,7 +1049,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 17/07/2021,Hulu Langat,Beranang,37,1802,30,1198,0,18,586
 17/07/2021,Hulu Langat,Cheras,205,14984,265,13495,2,159,1330
 17/07/2021,Hulu Langat,Hulu Langat,89,2954,41,2462,0,30,462
-17/07/2021,Hulu Langat,Hulu Semenyih,1,8,-1,0,0,0,6
+17/07/2021,Hulu Langat,Hulu Semenyih,1,8,0,1,0,0,6
 17/07/2021,Hulu Langat,Kajang,361,23259,332,20832,2,168,2259
 17/07/2021,Hulu Langat,Penjara,10,3071,66,2865,0,0,206
 17/07/2021,Hulu Langat,Semenyih,24,5710,21,5460,1,44,206
@@ -1114,7 +1114,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 18/07/2021,Hulu Langat,Beranang,17,1819,4,1202,2,20,597
 18/07/2021,Hulu Langat,Cheras,143,15127,15,13510,3,162,1455
 18/07/2021,Hulu Langat,Hulu Langat,46,3000,3,2465,2,32,503
-18/07/2021,Hulu Langat,Hulu Semenyih,1,9,3,3,0,0,6
+18/07/2021,Hulu Langat,Hulu Semenyih,1,9,2,3,0,0,6
 18/07/2021,Hulu Langat,Kajang,166,23425,32,20864,6,174,2387
 18/07/2021,Hulu Langat,Penjara,6,3077,1,2866,0,0,211
 18/07/2021,Hulu Langat,Semenyih,26,5736,1,5461,0,44,231
@@ -1244,7 +1244,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 20/07/2021,Hulu Langat,Beranang,76,1990,51,1346,0,20,624
 20/07/2021,Hulu Langat,Cheras,343,15659,266,14058,3,167,1434
 20/07/2021,Hulu Langat,Hulu Langat,77,3160,78,2592,0,33,535
-20/07/2021,Hulu Langat,Hulu Semenyih,0,10,-3,0,0,0,7
+20/07/2021,Hulu Langat,Hulu Semenyih,0,10,0,3,0,0,7
 20/07/2021,Hulu Langat,Kajang,375,24246,378,21548,1,178,2520
 20/07/2021,Hulu Langat,Penjara,9,3086,41,2927,0,0,159
 20/07/2021,Hulu Langat,Semenyih,324,6087,76,5581,0,44,462
@@ -1309,7 +1309,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 21/07/2021,Hulu Langat,Beranang,95,2085,23,1369,0,20,696
 21/07/2021,Hulu Langat,Cheras,439,16098,231,14289,8,175,1634
 21/07/2021,Hulu Langat,Hulu Langat,78,3238,52,2644,1,34,560
-21/07/2021,Hulu Langat,Hulu Semenyih,0,10,8,8,0,0,2
+21/07/2021,Hulu Langat,Hulu Semenyih,0,10,5,8,0,0,2
 21/07/2021,Hulu Langat,Kajang,398,24644,241,21789,6,184,2671
 21/07/2021,Hulu Langat,Penjara,44,3130,44,2971,0,0,159
 21/07/2021,Hulu Langat,Semenyih,171,6258,58,5639,0,44,575
@@ -1497,7 +1497,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 24/07/2021,Gombak,Batu,586,18768,467,16357,0,201,2210
 24/07/2021,Gombak,Hulu Kelang,151,5659,89,5098,0,66,495
 24/07/2021,Gombak,Kuang,108,3784,86,3317,0,20,448
-24/07/2021,Gombak,Penjara,0,242,-2,238,2,4,0
+24/07/2021,Gombak,Penjara,0,242,0,240,2,4,0
 24/07/2021,Gombak,Rawang,268,8018,158,7121,5,82,815
 24/07/2021,Gombak,Setapak,3,3355,47,3231,2,34,90
 24/07/2021,Hulu Langat,Ampang,346,18652,237,15882,14,248,2522
@@ -1562,7 +1562,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 25/07/2021,Gombak,Batu,229,18997,680,17037,3,204,1756
 25/07/2021,Gombak,Hulu Kelang,66,5725,135,5233,0,66,426
 25/07/2021,Gombak,Kuang,9,3793,90,3407,0,20,367
-25/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+25/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 25/07/2021,Gombak,Rawang,66,8084,194,7315,1,83,686
 25/07/2021,Gombak,Setapak,26,3381,38,3269,0,34,78
 25/07/2021,Hulu Langat,Ampang,584,19236,394,16276,3,251,2709
@@ -1627,7 +1627,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 26/07/2021,Gombak,Batu,364,19361,433,17470,2,206,1685
 26/07/2021,Gombak,Hulu Kelang,92,5817,113,5346,2,68,403
 26/07/2021,Gombak,Kuang,0,3793,87,3494,0,20,280
-26/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+26/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 26/07/2021,Gombak,Rawang,147,8231,140,7455,2,85,691
 26/07/2021,Gombak,Setapak,0,3381,34,3303,0,34,44
 26/07/2021,Hulu Langat,Ampang,304,19540,282,16558,10,261,2721
@@ -1692,7 +1692,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 27/07/2021,Gombak,Batu,346,19707,305,17775,7,213,1719
 27/07/2021,Gombak,Hulu Kelang,118,5935,102,5448,0,68,419
 27/07/2021,Gombak,Kuang,17,3810,26,3520,1,21,269
-27/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+27/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 27/07/2021,Gombak,Rawang,160,8391,95,7550,4,89,752
 27/07/2021,Gombak,Setapak,18,3399,23,3326,0,34,39
 27/07/2021,Hulu Langat,Ampang,467,20007,333,16891,9,270,2846
@@ -1757,7 +1757,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 28/07/2021,Gombak,Batu,581,20288,312,18087,4,217,1984
 28/07/2021,Gombak,Hulu Kelang,153,6088,75,5523,1,69,496
 28/07/2021,Gombak,Kuang,93,3903,15,3535,0,21,347
-28/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+28/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 28/07/2021,Gombak,Rawang,186,8577,123,7673,2,91,813
 28/07/2021,Gombak,Setapak,8,3407,19,3345,1,35,27
 28/07/2021,Hulu Langat,Ampang,404,20411,373,17264,6,276,2871
@@ -1822,7 +1822,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 29/07/2021,Gombak,Batu,413,20701,401,18488,5,222,1991
 29/07/2021,Gombak,Hulu Kelang,130,6218,86,5609,0,69,540
 29/07/2021,Gombak,Kuang,65,3968,51,3586,0,21,361
-29/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+29/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 29/07/2021,Gombak,Rawang,169,8746,176,7849,5,96,801
 29/07/2021,Gombak,Setapak,90,3497,4,3349,0,35,113
 29/07/2021,Hulu Langat,Ampang,518,20929,559,17823,6,282,2824
@@ -1887,7 +1887,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 30/07/2021,Gombak,Batu,455,21156,381,18869,4,226,2061
 30/07/2021,Gombak,Hulu Kelang,115,6333,64,5673,0,69,591
 30/07/2021,Gombak,Kuang,40,4008,40,3626,0,21,361
-30/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+30/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 30/07/2021,Gombak,Rawang,117,8863,167,8016,1,97,750
 30/07/2021,Gombak,Setapak,24,3521,17,3366,0,35,120
 30/07/2021,Hulu Langat,Ampang,491,21420,359,18182,0,282,2956
@@ -1952,7 +1952,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 31/07/2021,Gombak,Batu,279,21435,423,19292,5,231,1912
 31/07/2021,Gombak,Hulu Kelang,59,6392,119,5792,2,71,529
 31/07/2021,Gombak,Kuang,11,4019,80,3706,3,24,289
-31/07/2021,Gombak,Penjara,0,242,0,238,0,4,0
+31/07/2021,Gombak,Penjara,0,242,0,240,0,4,0
 31/07/2021,Gombak,Rawang,116,8979,173,8189,4,101,689
 31/07/2021,Gombak,Setapak,8,3529,9,3375,1,36,118
 31/07/2021,Hulu Langat,Ampang,636,22056,557,18739,6,288,3029
@@ -2017,7 +2017,7 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 01/08/2021,Gombak,Batu,236,21671,482,19774,9,240,1657
 01/08/2021,Gombak,Hulu Kelang,95,6487,116,5908,0,71,508
 01/08/2021,Gombak,Kuang,11,4030,73,3779,2,26,225
-01/08/2021,Gombak,Penjara,0,242,0,238,0,4,0
+01/08/2021,Gombak,Penjara,0,242,0,240,0,4,0
 01/08/2021,Gombak,Rawang,23,9002,171,8360,5,106,536
 01/08/2021,Gombak,Setapak,9,3538,11,3386,0,36,116
 01/08/2021,Hulu Langat,Ampang,573,22629,403,19142,1,289,3198
@@ -2082,14 +2082,14 @@ date,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths,CumDe
 02/08/2021,Gombak,Batu,298,21969,381,20155,13,253,1561
 02/08/2021,Gombak,Hulu Kelang,35,6522,86,5994,2,73,455
 02/08/2021,Gombak,Kuang,44,4074,66,3845,1,27,202
-02/08/2021,Gombak,Penjara,0,242,0,238,0,4,0
+02/08/2021,Gombak,Penjara,0,242,0,240,0,4,0
 02/08/2021,Gombak,Rawang,70,9072,133,8493,5,111,468
 02/08/2021,Gombak,Setapak,4,3542,20,3406,0,36,100
 02/08/2021,Hulu Langat,Ampang,568,23197,555,19697,7,296,3204
 02/08/2021,Hulu Langat,Beranang,65,2930,70,2427,1,23,480
 02/08/2021,Hulu Langat,Cheras,328,20140,343,17723,6,215,2202
 02/08/2021,Hulu Langat,Hulu Langat,148,4382,115,3613,2,43,726
-02/08/2021,Hulu Langat,Hulu Semenyih,0,10,0,10,-2,0,0
+02/08/2021,Hulu Langat,Hulu Semenyih,0,10,0,10,0,2,0
 02/08/2021,Hulu Langat,Kajang,470,29766,479,26360,7,228,3178
 02/08/2021,Hulu Langat,Penjara,15,3556,14,3379,0,6,171
 02/08/2021,Hulu Langat,Semenyih,185,8243,181,7035,2,63,1145
