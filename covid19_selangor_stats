@@ -1,0 +1,298 @@
+date,States,District,Local Cases,Import Cases,Total Cases
+01/07/2021,Selangor,Kuala Langat,148,1,149
+01/07/2021,Selangor,Sabak Bernam,1,1,2
+01/07/2021,Selangor,Gombak,365,0,365
+01/07/2021,Selangor,Hulu Langat,723,0,723
+01/07/2021,Selangor,Hulu Selangor,59,0,59
+01/07/2021,Selangor,Klang,408,0,408
+01/07/2021,Selangor,Kuala Selangor,67,0,67
+01/07/2021,Selangor,Petaling,871,0,871
+01/07/2021,Selangor,Sepang,241,0,241
+02/07/2021,Selangor,Kuala Langat,105,1,106
+02/07/2021,Selangor,Gombak,288,0,288
+02/07/2021,Selangor,Hulu Langat,809,0,809
+02/07/2021,Selangor,Hulu Selangor,104,0,104
+02/07/2021,Selangor,Klang,447,0,447
+02/07/2021,Selangor,Kuala Selangor,83,0,83
+02/07/2021,Selangor,Petaling,798,0,798
+02/07/2021,Selangor,Sabak Bernam,16,0,16
+02/07/2021,Selangor,Sepang,256,0,256
+03/07/2021,Selangor,Gombak,416,1,417
+03/07/2021,Selangor,Sepang,302,1,303
+03/07/2021,Selangor,Hulu Langat,1035,0,1035
+03/07/2021,Selangor,Hulu Selangor,76,0,76
+03/07/2021,Selangor,Klang,443,0,443
+03/07/2021,Selangor,Kuala Langat,85,0,85
+03/07/2021,Selangor,Kuala Selangor,68,0,68
+03/07/2021,Selangor,Petaling,607,0,607
+03/07/2021,Selangor,Sabak Bernam,13,0,13
+04/07/2021,Selangor,Gombak,276,0,276
+04/07/2021,Selangor,Hulu Langat,706,0,706
+04/07/2021,Selangor,Hulu Selangor,106,0,106
+04/07/2021,Selangor,Klang,325,0,325
+04/07/2021,Selangor,Kuala Langat,115,0,115
+04/07/2021,Selangor,Kuala Selangor,22,0,22
+04/07/2021,Selangor,Petaling,583,0,583
+04/07/2021,Selangor,Sabak Bernam,18,0,18
+04/07/2021,Selangor,Sepang,111,0,111
+05/07/2021,Selangor,Sabak Bernam,20,1,21
+05/07/2021,Selangor,Sepang,232,1,233
+05/07/2021,Selangor,Gombak,314,0,314
+05/07/2021,Selangor,Hulu Langat,617,0,617
+05/07/2021,Selangor,Hulu Selangor,46,0,46
+05/07/2021,Selangor,Klang,230,0,230
+05/07/2021,Selangor,Kuala Langat,99,0,99
+05/07/2021,Selangor,Kuala Selangor,68,0,68
+05/07/2021,Selangor,Petaling,982,0,982
+06/07/2021,Selangor,Hulu Selangor,104,1,105
+06/07/2021,Selangor,Gombak,432,0,432
+06/07/2021,Selangor,Hulu Langat,824,0,824
+06/07/2021,Selangor,Klang,382,0,382
+06/07/2021,Selangor,Kuala Langat,245,0,245
+06/07/2021,Selangor,Kuala Selangor,160,0,160
+06/07/2021,Selangor,Petaling,904,0,904
+06/07/2021,Selangor,Sabak Bernam,5,0,5
+06/07/2021,Selangor,Sepang,203,0,203
+07/07/2021,Selangor,Sabak Bernam,6,1,7
+07/07/2021,Selangor,Gombak,209,2,211
+07/07/2021,Selangor,Hulu Selangor,161,2,163
+07/07/2021,Selangor,Hulu Langat,952,0,952
+07/07/2021,Selangor,Klang,673,0,673
+07/07/2021,Selangor,Kuala Langat,173,0,173
+07/07/2021,Selangor,Kuala Selangor,165,0,165
+07/07/2021,Selangor,Petaling,666,0,666
+07/07/2021,Selangor,Sepang,109,0,109
+08/07/2021,Selangor,Hulu Selangor,106,1,107
+08/07/2021,Selangor,Sabak Bernam,14,0,14
+08/07/2021,Selangor,Gombak,375,0,375
+08/07/2021,Selangor,Hulu Langat,796,0,796
+08/07/2021,Selangor,Klang,1040,0,1040
+08/07/2021,Selangor,Kuala Langat,165,0,165
+08/07/2021,Selangor,Kuala Selangor,89,0,89
+08/07/2021,Selangor,Petaling,1313,0,1313
+08/07/2021,Selangor,Sepang,253,0,253
+09/07/2021,Selangor,Sabak Bernam,2,1,3
+09/07/2021,Selangor,Gombak,221,0,221
+09/07/2021,Selangor,Hulu Langat,775,0,775
+09/07/2021,Selangor,Hulu Selangor,134,0,134
+09/07/2021,Selangor,Klang,945,0,945
+09/07/2021,Selangor,Kuala Langat,226,0,226
+09/07/2021,Selangor,Kuala Selangor,121,0,121
+09/07/2021,Selangor,Petaling,1851,0,1851
+09/07/2021,Selangor,Sepang,124,0,124
+10/07/2021,Selangor,Sepang,229,1,230
+10/07/2021,Selangor,Sabak Bernam,197,4,201
+10/07/2021,Selangor,Gombak,241,0,241
+10/07/2021,Selangor,Hulu Langat,1058,0,1058
+10/07/2021,Selangor,Hulu Selangor,150,0,150
+10/07/2021,Selangor,Klang,890,0,890
+10/07/2021,Selangor,Kuala Langat,94,0,94
+10/07/2021,Selangor,Kuala Selangor,131,0,131
+10/07/2021,Selangor,Petaling,1282,0,1282
+11/07/2021,Selangor,Gombak,404,0,404
+11/07/2021,Selangor,Hulu Langat,1075,0,1075
+11/07/2021,Selangor,Hulu Selangor,124,0,124
+11/07/2021,Selangor,Klang,543,0,543
+11/07/2021,Selangor,Kuala Langat,147,0,147
+11/07/2021,Selangor,Kuala Selangor,143,0,143
+11/07/2021,Selangor,Petaling,1763,0,1763
+11/07/2021,Selangor,Sabak Bernam,24,0,24
+11/07/2021,Selangor,Sepang,459,0,459
+12/07/2021,Selangor,Hulu Langat,1213,1,1214
+12/07/2021,Selangor,Sabak Bernam,0,17,17
+12/07/2021,Selangor,Gombak,549,0,549
+12/07/2021,Selangor,Hulu Selangor,100,0,100
+12/07/2021,Selangor,Klang,496,0,496
+12/07/2021,Selangor,Kuala Langat,161,0,161
+12/07/2021,Selangor,Kuala Selangor,101,0,101
+12/07/2021,Selangor,Petaling,1518,0,1518
+12/07/2021,Selangor,Sepang,152,0,152
+13/07/2021,Selangor,Kuala Langat,193,1,194
+13/07/2021,Selangor,Sabak Bernam,36,5,41
+13/07/2021,Selangor,Gombak,1010,0,1010
+13/07/2021,Selangor,Hulu Langat,968,0,968
+13/07/2021,Selangor,Hulu Selangor,248,0,248
+13/07/2021,Selangor,Klang,706,0,706
+13/07/2021,Selangor,Kuala Selangor,154,0,154
+13/07/2021,Selangor,Petaling,1654,0,1654
+13/07/2021,Selangor,Sepang,288,0,288
+14/07/2021,Selangor,Hulu Selangor,147,7,154
+14/07/2021,Selangor,Gombak,968,0,968
+14/07/2021,Selangor,Hulu Langat,1362,0,1362
+14/07/2021,Selangor,Klang,463,0,463
+14/07/2021,Selangor,Kuala Langat,144,0,144
+14/07/2021,Selangor,Kuala Selangor,165,0,165
+14/07/2021,Selangor,Petaling,1590,0,1590
+14/07/2021,Selangor,Sabak Bernam,16,0,16
+14/07/2021,Selangor,Sepang,189,0,189
+15/07/2021,Selangor,Sabak Bernam,14,1,15
+15/07/2021,Selangor,Kuala Selangor,160,6,166
+15/07/2021,Selangor,Gombak,1066,0,1066
+15/07/2021,Selangor,Hulu Langat,977,0,977
+15/07/2021,Selangor,Hulu Selangor,179,0,179
+15/07/2021,Selangor,Klang,1169,0,1169
+15/07/2021,Selangor,Kuala Langat,234,0,234
+15/07/2021,Selangor,Petaling,2104,0,2104
+15/07/2021,Selangor,Sepang,210,0,210
+16/07/2021,Selangor,Sabak Bernam,4,2,6
+16/07/2021,Selangor,Gombak,812,0,812
+16/07/2021,Selangor,Hulu Langat,1197,0,1197
+16/07/2021,Selangor,Hulu Selangor,102,0,102
+16/07/2021,Selangor,Klang,1103,0,1103
+16/07/2021,Selangor,Kuala Langat,293,0,293
+16/07/2021,Selangor,Kuala Selangor,165,0,165
+16/07/2021,Selangor,Petaling,1700,0,1700
+16/07/2021,Selangor,Sepang,134,0,134
+17/07/2021,Selangor,Kuala Selangor,170,2,172
+17/07/2021,Selangor,Sabak Bernam,18,2,20
+17/07/2021,Selangor,Gombak,794,0,794
+17/07/2021,Selangor,Hulu Langat,1140,0,1140
+17/07/2021,Selangor,Hulu Selangor,222,0,222
+17/07/2021,Selangor,Klang,446,0,446
+17/07/2021,Selangor,Kuala Langat,136,0,136
+17/07/2021,Selangor,Petaling,1873,0,1873
+17/07/2021,Selangor,Sepang,182,0,182
+18/07/2021,Selangor,Sabak Bernam,5,2,7
+18/07/2021,Selangor,Gombak,738,0,738
+18/07/2021,Selangor,Hulu Langat,603,0,603
+18/07/2021,Selangor,Hulu Selangor,79,0,79
+18/07/2021,Selangor,Klang,903,0,903
+18/07/2021,Selangor,Kuala Langat,143,0,143
+18/07/2021,Selangor,Kuala Selangor,133,0,133
+18/07/2021,Selangor,Petaling,2127,0,2127
+18/07/2021,Selangor,Sepang,95,0,95
+19/07/2021,Selangor,Gombak,357,1,358
+19/07/2021,Selangor,Hulu Langat,1220,1,1221
+19/07/2021,Selangor,Kuala Langat,124,1,125
+19/07/2021,Selangor,Hulu Selangor,98,37,135
+19/07/2021,Selangor,Klang,355,0,355
+19/07/2021,Selangor,Kuala Selangor,142,0,142
+19/07/2021,Selangor,Petaling,1876,0,1876
+19/07/2021,Selangor,Sabak Bernam,22,0,22
+19/07/2021,Selangor,Sepang,170,0,170
+20/07/2021,Selangor,Hulu Langat,1580,1,1581
+20/07/2021,Selangor,Kuala Selangor,100,1,101
+20/07/2021,Selangor,Kuala Langat,347,2,349
+20/07/2021,Selangor,Gombak,503,0,503
+20/07/2021,Selangor,Hulu Selangor,168,0,168
+20/07/2021,Selangor,Klang,1012,0,1012
+20/07/2021,Selangor,Petaling,1545,0,1545
+20/07/2021,Selangor,Sabak Bernam,48,0,48
+20/07/2021,Selangor,Sepang,217,0,217
+21/07/2021,Selangor,Sabak Bernam,2,3,5
+21/07/2021,Selangor,Gombak,710,0,710
+21/07/2021,Selangor,Hulu Langat,1703,0,1703
+21/07/2021,Selangor,Hulu Selangor,146,0,146
+21/07/2021,Selangor,Klang,665,0,665
+21/07/2021,Selangor,Kuala Langat,302,0,302
+21/07/2021,Selangor,Kuala Selangor,146,0,146
+21/07/2021,Selangor,Petaling,1494,0,1494
+21/07/2021,Selangor,Sepang,379,0,379
+22/07/2021,Selangor,Kuala Selangor,170,1,171
+22/07/2021,Selangor,Sabak Bernam,17,6,23
+22/07/2021,Selangor,Gombak,1100,0,1100
+22/07/2021,Selangor,Hulu Langat,1240,0,1240
+22/07/2021,Selangor,Hulu Selangor,181,0,181
+22/07/2021,Selangor,Klang,1295,0,1295
+22/07/2021,Selangor,Kuala Langat,280,0,280
+22/07/2021,Selangor,Petaling,1633,0,1633
+22/07/2021,Selangor,Sepang,126,0,126
+23/07/2021,Selangor,Sabak Bernam,74,4,78
+23/07/2021,Selangor,Kuala Langat,393,6,399
+23/07/2021,Selangor,Gombak,1133,0,1133
+23/07/2021,Selangor,Hulu Langat,1711,0,1711
+23/07/2021,Selangor,Hulu Selangor,269,0,269
+23/07/2021,Selangor,Klang,1982,0,1982
+23/07/2021,Selangor,Kuala Selangor,313,0,313
+23/07/2021,Selangor,Petaling,1535,0,1535
+23/07/2021,Selangor,Sepang,252,0,252
+24/07/2021,Selangor,Gombak,1116,1,1117
+24/07/2021,Selangor,Kuala Selangor,263,1,264
+24/07/2021,Selangor,Sabak Bernam,83,1,84
+24/07/2021,Selangor,Hulu Langat,1277,0,1277
+24/07/2021,Selangor,Hulu Selangor,151,0,151
+24/07/2021,Selangor,Klang,1309,0,1309
+24/07/2021,Selangor,Kuala Langat,333,0,333
+24/07/2021,Selangor,Petaling,2612,0,2612
+24/07/2021,Selangor,Sepang,204,0,204
+25/07/2021,Selangor,Sabak Bernam,55,1,56
+25/07/2021,Selangor,Gombak,396,0,396
+25/07/2021,Selangor,Hulu Langat,1814,0,1814
+25/07/2021,Selangor,Hulu Selangor,322,0,322
+25/07/2021,Selangor,Klang,2377,0,2377
+25/07/2021,Selangor,Kuala Langat,280,0,280
+25/07/2021,Selangor,Kuala Selangor,166,0,166
+25/07/2021,Selangor,Petaling,2832,0,2832
+25/07/2021,Selangor,Sepang,257,0,257
+26/07/2021,Selangor,Sabak Bernam,52,1,53
+26/07/2021,Selangor,Gombak,603,0,603
+26/07/2021,Selangor,Hulu Langat,1085,0,1085
+26/07/2021,Selangor,Hulu Selangor,342,0,342
+26/07/2021,Selangor,Klang,1653,0,1653
+26/07/2021,Selangor,Kuala Langat,195,0,195
+26/07/2021,Selangor,Kuala Selangor,181,0,181
+26/07/2021,Selangor,Petaling,2198,0,2198
+26/07/2021,Selangor,Sepang,198,0,198
+27/07/2021,Selangor,Gombak,659,1,660
+27/07/2021,Selangor,Kuala Langat,267,1,268
+27/07/2021,Selangor,Kuala Selangor,293,1,294
+27/07/2021,Selangor,Hulu Langat,1484,0,1484
+27/07/2021,Selangor,Hulu Selangor,89,0,89
+27/07/2021,Selangor,Klang,921,0,921
+27/07/2021,Selangor,Petaling,2644,0,2644
+27/07/2021,Selangor,Sabak Bernam,17,0,17
+27/07/2021,Selangor,Sepang,239,0,239
+28/07/2021,Selangor,Hulu Langat,1507,1,1508
+28/07/2021,Selangor,Kuala Selangor,181,1,182
+28/07/2021,Selangor,Gombak,1021,0,1021
+28/07/2021,Selangor,Hulu Selangor,297,0,297
+28/07/2021,Selangor,Klang,1063,0,1063
+28/07/2021,Selangor,Kuala Langat,154,0,154
+28/07/2021,Selangor,Petaling,2697,0,2697
+28/07/2021,Selangor,Sabak Bernam,20,0,20
+28/07/2021,Selangor,Sepang,229,0,229
+29/07/2021,Selangor,Gombak,867,0,867
+29/07/2021,Selangor,Hulu Langat,1752,2,1754
+29/07/2021,Selangor,Hulu Selangor,313,0,313
+29/07/2021,Selangor,Klang,1441,0,1441
+29/07/2021,Selangor,Kuala Langat,632,0,632
+29/07/2021,Selangor,Kuala Selangor,246,0,246
+29/07/2021,Selangor,Petaling,1613,0,1613
+29/07/2021,Selangor,Sabak Bernam,7,1,8
+29/07/2021,Selangor,Sepang,289,0,289
+30/07/2021,Selangor,Gombak,751,0,751
+30/07/2021,Selangor,Hulu Langat,1770,0,1770
+30/07/2021,Selangor,Hulu Selangor,146,0,146
+30/07/2021,Selangor,Klang,984,0,984
+30/07/2021,Selangor,Kuala Langat,438,3,441
+30/07/2021,Selangor,Kuala Selangor,225,0,225
+30/07/2021,Selangor,Petaling,1477,0,1477
+30/07/2021,Selangor,Sabak Bernam,41,11,52
+30/07/2021,Selangor,Sepang,246,0,246
+31/07/2021,Selangor,Gombak,473,0,473
+31/07/2021,Selangor,Hulu Langat,2106,0,2106
+31/07/2021,Selangor,Hulu Selangor,365,0,365
+31/07/2021,Selangor,Klang,1125,0,1125
+31/07/2021,Selangor,Kuala Langat,240,0,240
+31/07/2021,Selangor,Kuala Selangor,203,0,203
+31/07/2021,Selangor,Petaling,1491,0,1491
+31/07/2021,Selangor,Sabak Bernam,48,9,57
+31/07/2021,Selangor,Sepang,340,0,340
+01/08/2021,Selangor,Gombak,374,0,374
+01/08/2021,Selangor,Hulu Langat,1819,0,1819
+01/08/2021,Selangor,Hulu Selangor,561,0,561
+01/08/2021,Selangor,Klang,1946,0,1946
+01/08/2021,Selangor,Kuala Langat,212,0,212
+01/08/2021,Selangor,Kuala Selangor,194,0,194
+01/08/2021,Selangor,Petaling,826,0,826
+01/08/2021,Selangor,Sabak Bernam,45,0,45
+01/08/2021,Selangor,Sepang,349,0,349
+02/08/2021,Selangor,Gombak,451,0,451
+02/08/2021,Selangor,Hulu Langat,1779,0,1779
+02/08/2021,Selangor,Hulu Selangor,134,0,134
+02/08/2021,Selangor,Klang,1637,0,1637
+02/08/2021,Selangor,Kuala Langat,116,0,116
+02/08/2021,Selangor,Kuala Selangor,214,0,214
+02/08/2021,Selangor,Petaling,1221,0,1221
+02/08/2021,Selangor,Sabak Bernam,120,2,122
+02/08/2021,Selangor,Sepang,393,0,393
