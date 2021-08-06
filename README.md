@@ -1,4 +1,4 @@
-# Daily Malaysia Covid19 Data announced from KKM
+# Covid19 Malaysia Data
 
 ## Covid19_mys_stats
 
