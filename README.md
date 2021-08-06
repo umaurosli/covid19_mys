@@ -2,6 +2,9 @@
 
 ## Covid19_mys_stats
 
+This data consists of daily statistics of Covid19 in Malaysia that KKM announced and shared every day.
+This dataset are build because KKM dont have dataset for **active cases**, patients in ICU, Patients who are using ventilator.
+
 Data will update by 2 phases per day.
 
 1. Daily Cases will update since KKM's announcement will just announce daily cases and total cumulative cases.
