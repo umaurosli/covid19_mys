@@ -1,6 +1,13 @@
 # Daily Malaysia Covid19 Data announced from KKM
 
-## Metadata
+## Covid19_mys_stats
+
+Data will update by 2 phase daily.
+Daily Cases will update since KKM's announcement will just announce daily cases and total cumulative cases.
+
+The rest variables will be updated after KKM shared the infographic for the daily covid19 statistics.
+
+### Metadata
 
 date - Date format.
 
