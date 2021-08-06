@@ -2,10 +2,13 @@
 
 ## Covid19_mys_stats
 
-Data will update by 2 phase daily.
-Daily Cases will update since KKM's announcement will just announce daily cases and total cumulative cases.
+Data will update by 2 phases per day.
 
-The rest variables will be updated after KKM shared the infographic for the daily covid19 statistics.
+1. Daily Cases will update since KKM's announcement will just announce daily cases and total cumulative cases.
+  https://twitter.com/KKMPutrajaya/status/1423179487768760323
+
+2. The other variables will be updated after KKM shared the infographic for the daily covid19 statistics.
+   https://twitter.com/KKMPutrajaya/status/1423229599488495616
 
 ### Metadata
 
