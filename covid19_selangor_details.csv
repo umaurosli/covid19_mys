@@ -2469,3 +2469,68 @@ date,State,District,Sub-District,NewCases,CumCases,Recovered,CumRecovered,Deaths
 07/08/2021,Selangor,Sepang,Labu,72,7793,77,7414,0,25,354
 07/08/2021,Selangor,Sepang,Penjara,0,89,0,89,0,0,0
 07/08/2021,Selangor,Sepang,Sepang,40,2720,39,2518,0,21,181
+08/08/2021,Selangor,Gombak,Batu,212,24812,405,22626,14,331,1855
+08/08/2021,Selangor,Gombak,Hulu Kelang,33,7108,47,6608,16,93,407
+08/08/2021,Selangor,Gombak,Kuang,2,4390,30,4088,1,41,261
+08/08/2021,Selangor,Gombak,Penjara,0,242,0,238,0,4,0
+08/08/2021,Selangor,Gombak,Rawang,87,10087,121,9217,2,132,738
+08/08/2021,Selangor,Gombak,Setapak,4,3719,26,3556,1,39,124
+08/08/2021,Selangor,Hulu Langat,Ampang,418,25422,628,22925,17,342,2155
+08/08/2021,Selangor,Hulu Langat,Beranang,66,3289,66,2881,2,28,380
+08/08/2021,Selangor,Hulu Langat,Cheras,278,21727,433,19975,11,242,1510
+08/08/2021,Selangor,Hulu Langat,Hulu Langat,103,4897,90,4175,6,55,667
+08/08/2021,Selangor,Hulu Langat,Hulu Semenyih,0,15,0,11,0,0,4
+08/08/2021,Selangor,Hulu Langat,Kajang,459,32360,530,29173,16,261,2926
+08/08/2021,Selangor,Hulu Langat,Penjara,23,3846,70,3638,0,6,202
+08/08/2021,Selangor,Hulu Langat,Semenyih,156,8885,196,8077,9,79,729
+08/08/2021,Selangor,Hulu Selangor,Ampang Pechah,13,788,24,673,0,7,108
+08/08/2021,Selangor,Hulu Selangor,Batang Kali,30,1181,15,1014,0,12,155
+08/08/2021,Selangor,Hulu Selangor,Buluh Telur,0,4,0,2,0,0,2
+08/08/2021,Selangor,Hulu Selangor,Hulu Bernam,9,421,13,346,0,10,65
+08/08/2021,Selangor,Hulu Selangor,Hulu Yam,10,626,0,81,0,9,536
+08/08/2021,Selangor,Hulu Selangor,Kalumpang,3,403,2,358,0,4,41
+08/08/2021,Selangor,Hulu Selangor,Kerling,3,182,4,148,0,1,33
+08/08/2021,Selangor,Hulu Selangor,Kuala Kalumpang,0,1,0,1,0,0,0
+08/08/2021,Selangor,Hulu Selangor,Penjara,0,278,0,278,0,0,0
+08/08/2021,Selangor,Hulu Selangor,Pertak,0,42,9,37,0,0,5
+08/08/2021,Selangor,Hulu Selangor,Rasa,5,445,2,401,0,5,39
+08/08/2021,Selangor,Hulu Selangor,Serendah,241,9134,222,7821,0,51,1262
+08/08/2021,Selangor,Hulu Selangor,Sungai Gumut,0,1,0,1,0,0,0
+08/08/2021,Selangor,Hulu Selangor,Sungai Tinggi,0,99,0,97,0,0,2
+08/08/2021,Selangor,Klang,Kapar,376,27968,387,26156,4,83,1729
+08/08/2021,Selangor,Klang,Klang,1176,68253,1428,61083,30,399,6771
+08/08/2021,Selangor,Klang,Penjara,0,13,0,13,0,0,0
+08/08/2021,Selangor,Kuala Langat,Bandar,7,588,7,542,0,5,41
+08/08/2021,Selangor,Kuala Langat,Batu,4,598,21,541,1,10,47
+08/08/2021,Selangor,Kuala Langat,Jugra,5,568,4,545,0,2,21
+08/08/2021,Selangor,Kuala Langat,Kelanang,8,291,1,262,0,3,26
+08/08/2021,Selangor,Kuala Langat,Morib,13,744,7,668,0,13,63
+08/08/2021,Selangor,Kuala Langat,Penjara,0,307,0,307,0,0,0
+08/08/2021,Selangor,Kuala Langat,Tanjung 12 (1),108,8011,84,7426,0,51,534
+08/08/2021,Selangor,Kuala Langat,Tanjung 12 (2),44,2893,32,2712,0,16,165
+08/08/2021,Selangor,Kuala Langat,Telok Panglima Garang,41,8214,68,7862,3,47,305
+08/08/2021,Selangor,Kuala Selangor,Api-Api,7,392,3,341,0,4,47
+08/08/2021,Selangor,Kuala Selangor,Bestari Jaya,15,2184,25,2041,0,12,131
+08/08/2021,Selangor,Kuala Selangor,Hulu Tinggi,0,3,0,2,0,0,1
+08/08/2021,Selangor,Kuala Selangor,Jeram,37,2322,23,1964,0,21,337
+08/08/2021,Selangor,Kuala Selangor,Kuala Selangor,29,1268,32,1087,0,9,172
+08/08/2021,Selangor,Kuala Selangor,ljok,53,6990,82,6306,0,46,638
+08/08/2021,Selangor,Kuala Selangor,Pasangan,0,62,0,55,0,0,7
+08/08/2021,Selangor,Kuala Selangor,Penjara,0,12,0,12,0,0,0
+08/08/2021,Selangor,Kuala Selangor,Tanjong Karang,16,1144,15,1006,0,15,123
+08/08/2021,Selangor,Kuala Selangor,Ujong Permatang,8,190,18,176,0,2,12
+08/08/2021,Selangor,Petaling,Bukit Raja,145,9976,222,9436,5,58,482
+08/08/2021,Selangor,Petaling,Damansara,823,47531,518,44770,17,312,2449
+08/08/2021,Selangor,Petaling,Penjara,0,18,0,17,0,1,0
+08/08/2021,Selangor,Petaling,Petaling,719,47191,521,44727,40,589,1875
+08/08/2021,Selangor,Petaling,Sungai Buloh,431,32408,357,30714,22,271,1423
+08/08/2021,Selangor,Sabak Bernam,Bagan Nakhoda Omar,4,221,0,182,0,5,34
+08/08/2021,Selangor,Sabak Bernam,Panchang Bedena,39,907,27,559,0,3,345
+08/08/2021,Selangor,Sabak Bernam,Pasir Panjang,2,499,4,452,1,8,39
+08/08/2021,Selangor,Sabak Bernam,Penjara,0,4,0,4,0,0,0
+08/08/2021,Selangor,Sabak Bernam,Sabak,5,585,3,496,0,9,80
+08/08/2021,Selangor,Sabak Bernam,Sungai Panjang,15,423,2,348,0,5,70
+08/08/2021,Selangor,Sepang,Dengkil,200,16230,307,14671,2,83,1476
+08/08/2021,Selangor,Sepang,Labu,55,7848,144,7558,0,25,265
+08/08/2021,Selangor,Sepang,Penjara,0,89,0,89,0,0,0
+08/08/2021,Selangor,Sepang,Sepang,25,2745,31,2549,1,22,174
